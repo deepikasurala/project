@@ -1,0 +1,28 @@
+{
+   "cards":[
+       {
+        "img":"./images/image1.jpg",
+        "name":"samsung",
+        "price":"12k",
+        "model":"j2",
+        "offer":"50k"
+       },
+       {
+        "img":"./images/image2.jpg",
+        "name":"iphone13",
+        "price":"300k",
+        "model":"j2",
+        "offer":"150k"
+       },
+       {
+        "img":"./images/image3.jpg",
+        "name":"nokia",
+        "price":"40k",
+        "model":"j2",
+        "offer":"30k"
+       }
+      
+   ]
+}
+
+   
